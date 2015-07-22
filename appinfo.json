@@ -1,0 +1,82 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "TIME_WEATHER",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Venom_converted_converted.png",
+                "name": "Venom1",
+                "type": "png"
+            },
+            {
+                "file": "images/Venom_converted.png",
+                "name": "Venom",
+                "type": "png"
+            },
+            {
+                "file": "images/Finger_converted.png",
+                "name": "FingerC",
+                "type": "png"
+            },
+            {
+                "file": "images/Finger.png",
+                "name": "Finger",
+                "type": "png"
+            },
+            {
+                "file": "images/Wolverine (1).png",
+                "name": "Wolverine",
+                "type": "png"
+            },
+            {
+                "file": "images/deathstroke_8_bit_by_sonikuu4-d85rgos.png",
+                "name": "DS",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Reckoner.ttf",
+                "name": "Reckoner_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/MovLette.ttf",
+                "name": "MOV_LETTE_28",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Action Comics.ttf",
+                "name": "ACTION_COMICS_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/8-BIT WONDER.TTF",
+                "name": "ATE_BIT_24",
+                "type": "font"
+            },
+            {
+                "file": "images/asl_resized_mono.png",
+                "name": "SPARK_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TIME_WEATHER",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "66a1e271-1c08-463c-ae5a-df468c62af9b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
